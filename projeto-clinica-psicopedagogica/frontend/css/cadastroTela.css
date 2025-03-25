@@ -1,0 +1,48 @@
+/* Estilos gerais */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: #333;
+}
+
+/* Estilos do conteúdo principal */
+main {
+    padding: 20px;
+}
+
+main p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Estilos do botão */
+.botao {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos do rodapé */
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
